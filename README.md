@@ -1,50 +1,111 @@
-- 👋 Hi, I’m @koreamax
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# GitHub Profile README 디자인
 
-<!---
-koreamax/koreamax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```md
+<div align="center">
 
+# 안녕하세요, 저는 **민형**입니다 👋
+### Backend · AI · Cloud · OCR
 
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=koreamax's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Spring+Boot+Developer;AI+%2F+OCR+Researcher;AWS+Cloud+Builder;Always+learning+something+new)](https://git.io/typing-svg)
+
 </div>
 
+---
 
-## Profile
-👩 이민형 <br>
-👶 2001.02.11 <br>
-📞 010-7421-8280 <br>
+## 🙋 About Me
+- 🌱 요즘 집중하는 것: **Spring Boot · AWS · OCR · LLM**
+- 💻 관심 분야: **Backend / AI / Cloud / Computer Vision**
+- 🎯 목표: **문제를 끝까지 파고들어 실제로 동작하는 서비스 만들기**
+- 📚 꾸준히 공부 중인 것: **자료구조, 알고리즘, 시스템, 머신러닝**
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:seinee114@gmail.com) <span><a href="https://www.notion.so/616157e577c54c20a04f242238e67801"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+---
 
+## 🛠 Tech Stack
 
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
 
-<br>
+### AI / CV / OCR
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-4A90E2?style=for-the-badge" />
+</p>
 
-## Skills
+### Cloud / DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-| Back-End | Front-End | Database | IDE |
-| --- | --- | --- | --- |
-| <span><img src="https://img.shields.io/badge/-JAVA-blueviolet"/></span> <span><img src="https://img.shields.io/badge/-JSP-red"/></span> <span><img src="https://img.shields.io/badge/-JPA-yellowgreen"/></span> <span><img src="https://img.shields.io/badge/JSON-00000?style=round-square&logo=JSON&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jQuery&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/ThymeLeaf-005F0F?style=round-square&logo=ThymeLeaf&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Oracle-F80000.svg?style=round-square&logo=mysql&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-MyBatis-orange"/></span> | <span><img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=round-square&logo=Eclipse&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=round-square&logo=Visual Studio Code&logoColor=white"/></span> <br> <span><img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=round-square&logo=IntelliJ IDEA&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-DBeaver-brightgreen"/></span> <span><img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=round-square&logo=Sourcetree&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=round-square&logo=Postman&logoColor=white"/></span> |
+---
 
+## 🚀 Featured Projects
 
-## Tools
+### 1. AI 산책 경로 추천 서비스
+- 사용자 목적/시간/위치 기반 산책 경로 추천
+- **Spring Boot + AWS + 지도 API + AI 추천 로직**
+- 날씨/시간/목적을 고려한 경로 생성
 
-| Communication | Management | Environment | API |
-| --- | --- | --- | --- |
-| <span><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></span><span><img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=black"/></span><span><img src="https://img.shields.io/badge/-figma-red"/></span> | <span><img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-yml-brightgreen"/></span> | <span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=black"/></span> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /> | <span><img src="https://img.shields.io/badge/-JDBC-blue"/>  <span><img src="https://img.shields.io/badge/-SMTP GAMIL-red"/></span> <span><img src="https://img.shields.io/badge/-KAKAO login-yellow"/></span> <span><img src="https://img.shields.io/badge/-naver login-brightgreen"/></span> <span><img src="https://img.shields.io/badge/-GOOGLE OCR-orange"/></span> <span><img src="https://img.shields.io/badge/-REST-green"/> |
+### 2. 간판 OCR 기반 OSM 메타데이터 보강 연구
+- Street View 이미지에서 간판 검출 및 OCR 수행
+- LLM 기반 태깅으로 건물 정보 자동 보강
+- **YOLO + OCR + LLM + OSM** 조합 연구
 
+### 3. Bedrock Agent 연동 백엔드 시스템
+- Spring Boot와 AWS Bedrock Agent 연결
+- Lambda Action Group 기반 응답 처리
+- 실제 서비스 API와 연계 가능한 구조 설계
 
+---
 
+## 📊 GitHub Stats
+<div align="center">
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight)
 
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sein&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-sein&show_icons=true">
 </div>
-<br>
+
+---
+
+## 🧩 Solving & Growth
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/YOUR_BOJ_ID)
+
+</div>
+
+---
+
+## 📫 Contact
+- Email: **your_email@example.com**
+- Blog / Portfolio: **your_link_here**
+- Velog / Notion / LinkedIn: **your_link_here**
+
+---
+
+<div align="center">
+
+### "기술은 결국, 실제 문제를 해결할 때 가장 빛난다."
+
+</div>
+```
+
+## 포인트
+
+* 전체 톤: **깔끔 + 개발자 느낌 + 살짝 화려함**
+* 배경색 감성: `tokyonight` 기준
+* 깃허브 아이디, 백준 아이디, 이메일만 바꾸면 바로 사용 가능
+* `YOUR_GITHUB_ID`, `YOUR_BOJ_ID`, 이메일/링크만 바꾸면 됨
