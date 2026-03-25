@@ -83,7 +83,7 @@
 
 ## 🧩 Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/YOUR_BOJ_ID)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreamax01)](https://solved.ac/YOUR_BOJ_ID)
 
 ---
 
