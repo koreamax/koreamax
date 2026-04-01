@@ -83,8 +83,8 @@
 
 ## Algorithm
 
-- https://github.com/koreamax/Coding_test_Algorithm
-
+- **백준 허브**: https://github.com/koreamax/Coding_test_Algorithm
+- **solved.ac**: https://solved.ac/koreamax01
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreamax01)](https://solved.ac/koreamax01)
