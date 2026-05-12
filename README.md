@@ -7,6 +7,7 @@
 <a href="mailto:koreamax012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://velog.io/@koreamax01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://github.com/koreamax"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/koreamax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=koreamax&style=flat-square&color=blueviolet" alt="profile views"/>
 
 </div>
@@ -72,20 +73,20 @@
 
 | 활동 | 내용 | 연도 |
 |:---:|:---|:---|
-| FARM SYSTEM 4기 | 웹/보안 트랙 Backend Developer | 2025.03 ~ 2025.12 |
+| FARM SYSTEM 4기 웹/보안 트랙 | Backend Developer | 2025.03 ~ 2025.12 |
 | AWS Cloud Club at DGU 1기 | General Member | 2025.07 ~ 2026.04 |
 | Computer Security & Distributed Computing LAB | 학부연구생 | 2025.07 ~ |
-| Computer Architecture | 조교 | 2026.03 ~ |
+| Computer Architecture Lecture | 조교(Teaching Assistant) | 2026.03 ~ |
 | AWS Student Builder Groups at DGU 1기 | Core Member | 2026.05 ~ |
 
 ---
 
 ## Awards
 
-| 연도 | 대회 | 수상 |
-|:---:|:---|:---|
-| 2025.12 | 제15회 피우다 프로젝트 공모전 | 정보통신산업진흥원장상 |
-| 2025.08 | 2025 K-HTML 해커톤 | 동대문구청장상 |
+| 연도 | 대회 | 수상 | 레포 |
+|:---:|:---|:---|:---|
+| 2025.12 | 제15회 피우다 프로젝트 공모전 | 정보통신산업진흥원장상 | https://github.com/koreamax/piudaback |
+| 2025.08 | 2025 K-HTML 해커톤 | 동대문구청장상 | https://github.com/koreamax/walk_web |
 
 ---
 
@@ -95,6 +96,17 @@
 |:---:|:---|:---|
 | 2025.04 | 네트워크관리사 2급 | 한국정보통신자격협회 |
 |2023.02 | COSPRO (C) 2급 | YBM IT |
+
+---
+
+## Study
+
+| 제목 | 링크 |
+|:---:|:---:|
+| 클라우드 블로그 | https://velog.io/@koreamax01/series/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C |
+| Docker 블로그 | https://velog.io/@koreamax01/series/Docker |
+| Socket & Network Programming 정리 | https://github.com/koreamax/network-programming |
+| Operating System & Computer Architecture 스터디 | https://github.com/koreamax/OS_Study |
 
 ---
 
