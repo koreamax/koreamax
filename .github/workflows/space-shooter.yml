@@ -19,9 +19,9 @@ jobs:
       - name: Generate space shooter SVG
         uses: czl9707/gh-space-shooter@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GH_PAT }}
-          output_dir: output
+          github-token: ${{ secrets.GH_PAT }}
+          username: ${{ github.repository_owner }}
+          output-path: output/space-shooter.svg
 
       - name: Commit & push
         run: |
