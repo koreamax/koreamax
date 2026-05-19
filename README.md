@@ -82,7 +82,7 @@
 
 ---
 
-## Certifications
+## Qualifications
 <div align="center">
 
 | 연도 | 자격증 | 관리협회 |
@@ -108,7 +108,7 @@
 
 ---
 
-## certificate of completion
+## Certifications
 <div align="center">
 
 | 연도 | 수료증 | 발급기관 |
