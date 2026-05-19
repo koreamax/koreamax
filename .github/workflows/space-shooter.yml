@@ -16,7 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate space shooter SVG
+      - name: Prepare output directory
+        run: mkdir -p output
+
+      - name: Generate space shooter animation
         uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GH_PAT }}
