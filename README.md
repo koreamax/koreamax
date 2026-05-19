@@ -56,7 +56,8 @@
 ---
 
 ## Activities
-
+<div align="center">
+  
 | 활동 | 내용 | 연도 |
 |:---:|:---:|:---:|
 | FARM SYSTEM 4기 웹/보안 트랙 | Backend Developer | 2025.03 ~ 2025.12 |
@@ -65,27 +66,33 @@
 | Computer Architecture Lecture | 조교(Teaching Assistant) | 2026.03 ~ |
 | AWS Student Builder Groups at DGU 1기 | Core Member | 2026.05 ~ |
 
+</div>
 ---
 
 ## Awards
-
+<div align="center">
+  
 | 연도 | 대회 | 수상 | 레포 |
 |:---:|:---:|:---:|:---:|
 | 2025.12 | 제15회 피우다 프로젝트 공모전 | 정보통신산업진흥원장상 | https://github.com/koreamax/piudaback |
 | 2025.08 | 2025 K-HTML 해커톤 | 동대문구청장상 | https://github.com/koreamax/walk_web |
 
+</div>
 ---
 
 ## Certifications
+<div align="center">
 
 | 연도 | 자격증 | 관리협회 |
 |:---:|:---:|:---:|
 | 2025.04 | 네트워크관리사 2급 | 한국정보통신자격협회 |
-|2023.02 | COSPRO (C) 2급 | YBM IT |
+| 2023.02 | COSPRO (C) 2급 | YBM IT |
 
+</div>
 ---
 
 ## Study
+<div align="center">
 
 | 제목 | 링크 |
 |:---:|:---:|
@@ -94,13 +101,23 @@
 | Socket & Network Programming 정리 | https://github.com/koreamax/network-programming |
 | Operating System & Computer Architecture 스터디 | https://github.com/koreamax/OS_Study |
 
+</div>
+---
+
+## certificate of completion
+<div align="center">
+
+| 연도 | 수료증 | 발급기관 |
+|:---:|:---:|:---:|
+| 2025.10 | Google Cloud Fundamentals: Core Infrastructure | 아이코어이앤씨(iCORE) |
+| 2023.01 ~ 2023.06 | JSP & Spring Boot 웹개발 백엔드 과정 | 코리아 IT 아카데미 |
+
+</div>
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=koreamax&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koreamax&theme=tokyo-night&hide_border=true&area=true)
 
@@ -113,10 +130,10 @@
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreamax01)](https://solved.ac/profile/koreamax01)
+<br>**백준 허브** : [koreamax/Coding_test_Algorithm](https://github.com/koreamax/Coding_test_Algorithm)
+
 
 </div>
-
-- **백준 허브** : [koreamax/Coding_test_Algorithm](https://github.com/koreamax/Coding_test_Algorithm)
 
 ---
 
