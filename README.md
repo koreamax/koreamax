@@ -124,9 +124,9 @@
 
 <div align="center">
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)<br>
+![3D Contributions](./profile-3d-contrib/profile-season-animate.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koreamax&theme=tokyo-night&hide_border=true&area=true)<br>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koreamax&theme=github-light&hide_border=true&area=true)
 
 ![Space Shooter](./output/space-shooter.webp)
 
