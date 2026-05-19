@@ -67,6 +67,7 @@
 | AWS Student Builder Groups at DGU 1기 | Core Member | 2026.05 ~ |
 
 </div>
+
 ---
 
 ## Awards
@@ -78,6 +79,7 @@
 | 2025.08 | 2025 K-HTML 해커톤 | 동대문구청장상 | https://github.com/koreamax/walk_web |
 
 </div>
+
 ---
 
 ## Certifications
@@ -89,6 +91,7 @@
 | 2023.02 | COSPRO (C) 2급 | YBM IT |
 
 </div>
+
 ---
 
 ## Study
@@ -102,6 +105,7 @@
 | Operating System & Computer Architecture 스터디 | https://github.com/koreamax/OS_Study |
 
 </div>
+
 ---
 
 ## certificate of completion
@@ -113,6 +117,7 @@
 | 2023.01 ~ 2023.06 | JSP & Spring Boot 웹개발 백엔드 과정 | 코리아 IT 아카데미 |
 
 </div>
+
 ---
 
 ## GitHub Stats
