@@ -21,7 +21,8 @@ jobs:
         with:
           github-token: ${{ secrets.GH_PAT }}
           username: ${{ github.repository_owner }}
-          output-path: output/space-shooter.svg
+          output-path: output/space-shooter.webp
+          no-amend: "true"
 
       - name: Commit & push
         run: |
