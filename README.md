@@ -113,6 +113,7 @@
 
 | 연도 | 수료증 | 발급기관 |
 |:---:|:---:|:---:|
+| 2026.07 | SK suniC 5기 하프 코스 이수증 | SK suniC |
 | 2025.10 | Google Cloud Fundamentals: Core Infrastructure | 아이코어이앤씨(iCORE) |
 | 2023.01 ~ 2023.06 | JSP & Spring Boot 웹개발 백엔드 과정 | 코리아 IT 아카데미 |
 
