@@ -63,11 +63,16 @@
 | FARM SYSTEM 4기 웹/보안 트랙 | Backend Developer | 2025.03 ~ 2025.12 |
 | AWS Cloud Club at DGU 1기 | General Member | 2025.07 ~ 2026.04 |
 | Computer Security & Distributed Computing LAB | 학부연구생 | 2025.07 ~ |
-| Computer Architecture Lecture | 조교(Teaching Assistant) | 2026.03 ~ |
+| Computer Architecture Lecture | 조교(Teaching Assistant) | 2026.03 ~ 2026.06 |
 | AWS Student Builder Groups at DGU 1기 | Core Member | 2026.05 ~ |
+| SKT FLY AI CHALLENGER 9기 | Course Participant | 2026.06 ~ |
 
 </div>
 
+<div align="center">
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/296540fb-974c-43de-8772-47b11f890d34" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e335b910-b289-49b1-a405-193815a8b578" />
+</div>
 ---
 
 ## Awards
@@ -103,6 +108,7 @@
 | Docker 블로그 | https://velog.io/@koreamax01/series/Docker |
 | Socket & Network Programming 정리 | https://github.com/koreamax/network-programming |
 | Operating System & Computer Architecture 스터디 | https://github.com/koreamax/OS_Study |
+| Kubernetes(K8S) 스터디 | https://github.com/koreamax/asbg-1st-devops-study-2 |
 
 </div>
 
