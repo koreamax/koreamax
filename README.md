@@ -92,6 +92,7 @@
 
 | 연도 | 자격증 | 관리협회 |
 |:---:|:---:|:---:|
+| 2026.08 | AWS Certified Cloud Practitioner | AWS Training and Certification |
 | 2025.04 | 네트워크관리사 2급 | 한국정보통신자격협회 |
 | 2023.02 | COSPRO (C) 2급 | YBM IT |
 
