@@ -65,7 +65,7 @@
 | Computer Security & Distributed Computing LAB | 학부연구생 | 2025.07 ~ |
 | Computer Architecture Lecture | 조교(Teaching Assistant) | 2026.03 ~ 2026.06 |
 | AWS Student Builder Groups at DGU 1기 | Core Member(운영진) | 2026.05 ~ |
-| SKT FLY AI CHALLENGER 9기 | AI & Cloud Developer | 2026.06 ~ 09 |
+| SKT FLY AI CHALLENGER 9기 | AI & Cloud Developer | 2026.06 ~ 2026.09 |
 
 </div>
 
