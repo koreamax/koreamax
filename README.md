@@ -60,12 +60,14 @@
   
 | 활동 | 내용 | 연도 |
 |:---:|:---:|:---:|
+| 코리아 IT 아카데미 JSP & Spring Boot 백엔드 과정 | Backend Developer | 2023.01 ~ 2023.06 |
 | FARM SYSTEM 4기 웹/보안 트랙 | Backend Developer | 2025.03 ~ 2025.12 |
 | AWS Cloud Club at DGU 1기 | General Member | 2025.07 ~ 2026.04 |
 | Computer Security & Distributed Computing LAB | 학부연구생 | 2025.07 ~ |
 | Computer Architecture Lecture | 조교(Teaching Assistant) | 2026.03 ~ 2026.06 |
 | AWS Student Builder Groups at DGU 1기 | Core Member(운영진) | 2026.05 ~ |
 | SKT FLY AI CHALLENGER 9기 | AI & Cloud Developer | 2026.06 ~ 2026.09 |
+| IOT Microprocessor Lecture | 조교(Teaching Assistant) | 2026.09 ~ |
 
 </div>
 
@@ -81,8 +83,8 @@
   
 | 연도 | 대회 | 수상 | 레포 |
 |:---:|:---:|:---:|:---:|
-| 2026.09 | SKT FLY AI CHALLENGER 9기 개인 부문 | SK텔레콤 대표이사상(최우수상) | https://github.com/sktflyai9th5 |
-| 2026.09 | SKT FLY AI CHALLENGER 9기 프로젝트 부문 | SK텔레콤 대표이사상(우수상) | https://github.com/sktflyai9th5 |
+| 2026.09 | SKT FLY AI CHALLENGER 9기 개인 최우수상 | SK텔레콤 대표이사상 | https://github.com/sktflyai9th5 |
+| 2026.09 | SKT FLY AI CHALLENGER 9기 프로젝트 부문 | SK텔레콤 대표이사상 | https://github.com/sktflyai9th5 |
 | 2025.12 | 제15회 피우다 프로젝트 공모전 | 정보통신산업진흥원장상 | https://github.com/koreamax/piudaback |
 | 2025.08 | 2025 K-HTML 해커톤 | 동대문구청장상 | https://github.com/koreamax/walk_web |
 
@@ -126,7 +128,7 @@
 |:---:|:---:|:---:|
 | 2026.07 | SK suniC 5기 하프 코스 이수증 | SK suniC |
 | 2025.10 | Google Cloud Fundamentals: Core Infrastructure | 아이코어이앤씨(iCORE) |
-| 2023.01 ~ 2023.06 | JSP & Spring Boot 웹개발 백엔드 과정 | 코리아 IT 아카데미 |
+| 2025.08 | Ascent: Snowflake Platform Training - APAC | Snowflake University |
 
 </div>
 
