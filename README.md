@@ -130,6 +130,37 @@
 
 ---
 
+## Projects
+
+### 🟢 In Progress
+<div align="center">
+
+| 프로젝트 | 소개 | 분야 | 상태 |
+|:--|:--|:--:|:--:|
+| [Goliath Crane](https://github.com/koreamax/Hanhwa-Ocean-Goliath-Crane) | 🏗️ 한화오션 골리앗 크레인용<br>LiDAR 기반 ROS2 상황 인식 시스템 | ![Embedded](https://img.shields.io/badge/Embedded-2C3E50?style=flat-square) | 🟢 진행 중 |
+| [GSV Paper](https://github.com/koreamax/GSV_SIGNBOARD) | 🪧 구글 스트리트뷰 간판을 YOLO로 검출하고<br>OCR + VLM으로 텍스트를 추출하는 파이프라인 | ![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) | 🟢 진행 중 |
+| [JeokjaeJeokso](https://github.com/koreamax/2026ESWContest_mobility_JeokjaeJeokso) | 🚛 현대자동차 임베디드 SW 공모전<br>라즈베리파이 센서로 트럭 적재물을 측정하고<br>디지털 트윈으로 시각화 | ![Embedded](https://img.shields.io/badge/Embedded-2C3E50?style=flat-square) | 🟢 진행 중 |
+
+</div>
+
+### 🔴 Completed
+<div align="center">
+
+| 프로젝트 | 소개 | 분야 | 상태 |
+|:--|:--|:--:|:--:|
+| [VIAssist](https://github.com/koreamax/VIAssist_Total) | 🦯 한이음 프로젝트<br>Jetson Orin Nano 기반 YOLO + Optical Flow + VLM + TTS<br>시각장애인 보행 보조 웨어러블 | ![Embedded](https://img.shields.io/badge/Embedded-2C3E50?style=flat-square) ![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) | 🔴 종료 |
+| [beautytalk](https://github.com/koreamax/beautytalk-app) | 💄 시각장애인·저시력 사용자를 위한<br>메이크업 도우미 | ![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) ![Web](https://img.shields.io/badge/Web-02569B?style=flat-square) ![App](https://img.shields.io/badge/App-0175C2?style=flat-square) | 🔴 종료 |
+| [LLM ROUTER](https://github.com/koreamax/SKTLLMROUTER0.710) | 🧭 SKT Efficient LLM Routing Challenge<br>질문에 맞는 모델로 라우팅해<br>비용과 품질을 동시에 잡는 라우터 | ![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) | 🔴 종료 |
+| [Mission Pawss!ble](https://github.com/koreamax/TECH4GOOD_OH) | 🐕 반려견 산책으로 도시 위험을 발견하고<br>지자체와 연결하는 시민참여 플랫폼 | ![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=flat-square) ![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) ![Web](https://img.shields.io/badge/Web-02569B?style=flat-square) | 🔴 종료 |
+| [Wilson](https://github.com/koreamax/wilson_chatbot) | 👴 치매 노인을 위한 말벗 챗봇 | ![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=flat-square) ![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) ![Web](https://img.shields.io/badge/Web-02569B?style=flat-square) | 🔴 종료 |
+| [Cloud Island](https://github.com/koreamax/cloud-island) | 🪐 AWS CloudTrail 로그를<br>3D 행성과 우주 탐험 인터페이스로 시각화 | ![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=flat-square) ![Web](https://img.shields.io/badge/Web-02569B?style=flat-square) | 🔴 종료 |
+| [Seagnal](https://github.com/koreamax/piudaback) | 🌊 해양 환경 정화 활동을 위한<br>통합 ICT 플랫폼 | ![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=flat-square) ![Web](https://img.shields.io/badge/Web-02569B?style=flat-square) | 🔴 종료 |
+| [WalkingCity](https://github.com/koreamax/walk_web) | 🚶 동대문구 주민 취향 맞춤<br>산책 경로 추천 서비스 | ![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=flat-square) ![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) ![Web](https://img.shields.io/badge/Web-02569B?style=flat-square) | 🔴 종료 |
+
+</div>
+
+---
+
 ## Study
 <div align="center">
 
