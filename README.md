@@ -24,11 +24,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNyAyIDMgMy44IDMgNnYxMmMwIDIuMiA0IDQgOSA0czktMS44IDktNFY2YzAtMi4yLTQtNC05LTR6bTAgMmM0LjQgMCA3IDEuNCA3IDJzLTIuNiAyLTcgMi03LTEuNC03LTIgMi42LTIgNy0yem03IDE0YzAgLjYtMi42IDItNyAycy03LTEuNC03LTJ2LTMuMmMxLjYuOCA0LjEgMS4yIDcgMS4yczUuNC0uNCA3LTEuMnptMC02YzAgLjYtMi42IDItNyAycy03LTEuNC03LTJWOC44YzEuNi44IDQuMSAxLjIgNyAxLjJzNS40LS40IDctMS4yeiIvPjwvc3ZnPg=="/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### AI
