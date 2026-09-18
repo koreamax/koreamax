@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ef473a,50:f12711,100:ef473a&height=240&section=header&text=MINHYUNG%20LEE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web/App%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Embedded%20Engineer&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ef473a,50:f12711,100:ef473a&height=240&section=header&text=MINHYUNG%20LEE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Embedded%20Engineer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C02425&center=true&vCenter=true&width=780&lines=Dongguk+University%2C+Information+%26+Communication+Engineering;I+love+Web·App+%2F+AI+%2F+Cloud+%2F+Embedded;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C02425&center=true&vCenter=true&width=780&lines=Dongguk+University%2C+Information+%26+Communication+Engineering;I+love+Backend+%2F+AI+%2F+Cloud+%2F+Embedded;)](https://git.io/typing-svg)
 
 <a href="mailto:koreamax012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://velog.io/@koreamax01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 
 ## Tech Stack
 
-### Web(Frontend / Backend) / App
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
